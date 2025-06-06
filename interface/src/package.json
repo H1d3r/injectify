@@ -21,7 +21,7 @@
     "sass-loader": "^6.0.7",
     "webpack": "3.10.0",
     "webpack-bundle-analyzer": "^2.11.1",
-    "webpack-dev-server": "^2.9.7"
+    "webpack-dev-server": "^5.2.1"
   },
   "babel": {
     "presets": [
@@ -60,7 +60,7 @@
     "copy-webpack-plugin": "^4.5.1",
     "history": "^4.7.2",
     "immutability-helper": "^2.6.6",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "material-ui": "^1.0.0-beta.39",
     "material-ui-icons": "^1.0.0-beta.36",
     "moment": "^2.21.0",
@@ -88,7 +88,7 @@
     "react-syntax-highlighter": "^7.0.2",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.5.0",
     "socket.io-client": "^2.0.4",
     "source-map-loader": "^0.2.3",
     "tapable": "^1.0.0-beta.5",
